@@ -10,3 +10,7 @@
 	path = VivaGraphJS
 	url = git@github.com:anvaka/VivaGraphJS.git
 	branch = master
+[submodule "dagre"]
+	path = dagre
+	url = git@github.com:cpettitt/dagre.git
+	branch = master
