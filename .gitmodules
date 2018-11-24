@@ -38,3 +38,7 @@
 	path = arbor
 	url = git@github.com:samizdatco/arbor.git
 	branch = master
+[submodule "dracula"]
+	path = dracula
+	url = git@github.com:strathausen/dracula.git
+	branch = master
