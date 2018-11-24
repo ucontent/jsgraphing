@@ -22,3 +22,7 @@
 	path = JSNetworkX
 	url = git@github.com:fkling/JSNetworkX.git
 	branch = master
+[submodule "Alchemy"]
+	path = Alchemy
+	url = git@github.com:GraphAlchemist/Alchemy.git
+	branch = master
