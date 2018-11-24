@@ -1,0 +1,4 @@
+[submodule "vis"]
+	path = vis
+	url = git@github.com:almende/vis.git
+	branch = master
