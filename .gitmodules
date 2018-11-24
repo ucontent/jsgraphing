@@ -18,3 +18,7 @@
 	path = springy
 	url = git@github.com:dhotson/springy.git
 	branch = master
+[submodule "JSNetworkX"]
+	path = JSNetworkX
+	url = git@github.com:fkling/JSNetworkX.git
+	branch = master
