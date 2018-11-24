@@ -34,3 +34,7 @@
 	path = d3
 	url = git@github.com:mbostock/d3.git
 	branch = master
+[submodule "arbor"]
+	path = arbor
+	url = git@github.com:samizdatco/arbor.git
+	branch = master
