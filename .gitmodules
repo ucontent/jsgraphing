@@ -14,3 +14,7 @@
 	path = dagre
 	url = git@github.com:cpettitt/dagre.git
 	branch = master
+[submodule "springy"]
+	path = springy
+	url = git@github.com:dhotson/springy.git
+	branch = master
