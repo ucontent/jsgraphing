@@ -2,3 +2,7 @@
 	path = vis
 	url = git@github.com:almende/vis.git
 	branch = master
+[submodule "ngraph"]
+	path = ngraph
+	url = git@github.com:anvaka/ngraph.git
+	branch = master
