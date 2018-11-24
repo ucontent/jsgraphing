@@ -30,3 +30,7 @@
 	path = sigma.js
 	url = git@github.com:jacomyal/sigma.js.git
 	branch = master
+[submodule "d3"]
+	path = d3
+	url = git@github.com:mbostock/d3.git
+	branch = master
