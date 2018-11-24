@@ -6,3 +6,7 @@
 	path = ngraph
 	url = git@github.com:anvaka/ngraph.git
 	branch = master
+[submodule "VivaGraphJS"]
+	path = VivaGraphJS
+	url = git@github.com:anvaka/VivaGraphJS.git
+	branch = master
