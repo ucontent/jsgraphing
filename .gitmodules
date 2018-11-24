@@ -26,3 +26,7 @@
 	path = Alchemy
 	url = git@github.com:GraphAlchemist/Alchemy.git
 	branch = master
+[submodule "sigma.js"]
+	path = sigma.js
+	url = git@github.com:jacomyal/sigma.js.git
+	branch = master
